@@ -1,0 +1,4 @@
+campusnotes features 
+1. store academic notes
+2. orgainze notes by subject
+3. Manage study materials
