@@ -1,2 +1,0 @@
-project: campusnotes
-purpose: acadmic note managment
